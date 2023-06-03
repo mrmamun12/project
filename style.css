@@ -168,3 +168,73 @@ main{
     padding-right: 80px;
     padding-bottom: 50px;
 }
+
+/* ------------Resume Section-------------- */
+
+.flexdiv{
+    display: flex;
+    gap: 20px;
+}
+.resume .title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+}
+.resume .subtitle{
+    font-weight: 600;
+    font-size: 20px;
+    color: #474747;
+}
+.resume .description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #474747;
+}
+.resume-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+}
+.cvbtn{
+    height: 50px;
+    background-color: #FD6E0A;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px;
+    align-content: center;
+}
+.btn{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+/* --------Contact Style--------- */
+.contact{
+    display: flex;
+    gap: 100px;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+}
+.contact .section-title{
+    text-align: left;
+}
+.input{
+    height: 40px;
+    margin-bottom: 24px;
+    width: 100%;
+    border: 0;
+    padding: 18px 30px;
+}
+.contact-des{
+    font-weight: 400;
+    font-size: 16px;
+    color: #474747;
+}
+.contact a{
+    text-decoration: none;
+}
+
